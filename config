@@ -1,2 +1,7 @@
-BUNDLE_PATH: "vendor/bundle"
-BUNDLE_FORCE_RUBY_PLATFORM: 1
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
